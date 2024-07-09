@@ -6,16 +6,13 @@ Designed and implemented the frontend interface of an Amazon-like e-commerce web
 ## Author
 **Author:** Parvatham Ram Charan
 
-**GitHub:** [ramcharan7251](https://github.com/parvathamramcharan)
+**GitHub:** [parvathamramcharan](https://github.com/parvathamramcharan)
 
 ## Deployed at: [Look here](https://amazondupliclone.netlify.app)
 
 
 
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 ## How to Use
 1. **Excution:  just import files or git clone this repo and open throught any browser.
 
